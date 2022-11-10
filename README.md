@@ -44,9 +44,18 @@ Here is my weeknum measure which is also a calculation (average) and used as a t
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/66521420/201092744-b2ed25fd-9b64-496e-872a-7223904e42db.png)
 
+Last but not least, I have published my report and dataset and the csv file that I used for my dataset onto power bi service. I have also published it from power bi
+service to github in an attempt to do version control. Instead power bi service asked me to use a paid version of which I now have a 60 day free trial to do this. It
+didn't turn out how I thought the instructions were instructing me, instead it created a github workbook on power bi service. I'll include the link in this readme so that you can check it out if you want. 
 
+![Screenshot (100)](https://user-images.githubusercontent.com/66521420/201094971-88f05d85-0f28-4653-85a7-f40be56b02c1.png)
 
+![Screenshot (101)](https://user-images.githubusercontent.com/66521420/201094999-24498ee0-83f8-4671-b350-90ef3ff5d6b4.png)
 
+![Screenshot (102)](https://user-images.githubusercontent.com/66521420/201095049-bd43d3bc-a8c3-4c1b-9fa5-52cb573d881c.png)
+
+https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/list
+https://app.powerbi.com/groups/051f33aa-11fd-4459-9988-a3c72f8a8b40/reports/c6bae9ed-570b-4d60-9676-c9cdc3100089/ReportSectioncd021c7c43ad28778baf
 
 
 
